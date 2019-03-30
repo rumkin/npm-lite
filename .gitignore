@@ -1,7 +1,6 @@
-bower_components/
+build/
 coverage/
 dist/
-build/
 local/
 logs/
 node_modules/
@@ -12,7 +11,7 @@ tmp/
 **/.DS_Store
 
 # Runtime files
+*.lock
 *.log
 *.pid
-*.lock
 *.pid.lock

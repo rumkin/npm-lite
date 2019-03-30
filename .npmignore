@@ -1,3 +1,9 @@
 .eslintrc
 .eslintignore
 .editorconfig
+
+coverage/
+local/
+logs/
+pids/
+tmp/
