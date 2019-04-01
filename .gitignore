@@ -8,7 +8,9 @@ pids/
 tmp/
 
 # OS files
-**/.DS_Store
+.DS_Store
+Thumbs.db
+Desktop.ini
 
 # Runtime files
 *.lock
