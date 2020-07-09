@@ -1,11 +1,8 @@
-build/
-coverage/
-dist/
-local/
-logs/
+# Repo-wide
+# -----------------------------------------------------------------------------
+
+# Dirs
 node_modules/
-pids/
-tmp/
 
 # OS files
 .DS_Store
@@ -17,3 +14,17 @@ Desktop.ini
 *.log
 *.pid
 *.pid.lock
+
+# Repo root
+# -----------------------------------------------------------------------------
+
+# Technical output
+/build/
+/coverage/
+/dist/
+/logs/
+/pids/
+/tmp/
+
+# Local data
+/local/
